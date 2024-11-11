@@ -1,0 +1,58 @@
+/* Estilos para el h1 */
+h1 {
+    color: #ff6347; /* Color del texto (Tomato) */
+}
+
+/* Estilos para las imágenes dentro del div con id 'thirdDiv' */
+img {
+    width: 350px; /* Ancho de 350px */
+}
+
+/* Estilos para el div con id 'thirdDiv' */
+#thirdDiv {
+    height: 500px; /* Altura de 500px */
+    width: 500px; /* Ancho de 500px */
+    background-color: #e0f7fa; /* Color de fondo (Light Cyan) */
+    padding: 50px; /* Relleno de 50px */
+    border: 2px solid #00796b; /* Borde de 2px, color verde oscuro, estilo sólido */
+}
+
+/* Estilos para el span con id 'spanId' */
+#spanId {
+    font-size: 18px; /* Tamaño de la fuente de 18px */
+    margin: 50px; /* Margen de 50px */
+}
+
+/* Estilos para los divs con clase 'divClass' */
+.divClass {
+    margin-bottom: 20px; /* Espacio inferior opcional */
+}
+/* Estilos para el h1 */
+h1 {
+    color: #ff6347; /* Color del texto (Tomato) */
+}
+
+/* Estilos para las imágenes dentro del div con id 'thirdDiv' */
+img {
+    width: 350px; /* Ancho de 350px */
+}
+
+/* Estilos para el div con id 'thirdDiv' */
+#thirdDiv {
+    height: 500px; /* Altura de 500px */
+    width: 500px; /* Ancho de 500px */
+    background-color: #e0f7fa; /* Color de fondo (Light Cyan) */
+    padding: 50px; /* Relleno de 50px */
+    border: 2px solid #00796b; /* Borde de 2px, color verde oscuro, estilo sólido */
+}
+
+/* Estilos para el span con id 'spanId' */
+#spanId {
+    font-size: 18px; /* Tamaño de la fuente de 18px */
+    margin: 50px; /* Margen de 50px */
+}
+
+/* Estilos para los divs con clase 'divClass' */
+.divClass {
+    margin-bottom: 20px; /* Espacio inferior opcional */
+}

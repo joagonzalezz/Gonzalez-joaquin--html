@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bloques Superpuestos</title>
+    <style>
+        /* Estilos comunes para todos los bloques */
+        .bloque {
+            position: absolute; /* Posicionamiento absoluto para los bloques */
+            width: 300px; /* Ancho de 300px */
+            height: 300px; /* Alto de 300px */
+        }
+
+        /* Estilos específicos para cada bloque */
+        #bloque1 {
+            top: 100px; /* Posición superior del primer bloque */
+            left: 100px; /* Posición izquierda del primer bloque */
+            background-color: red; /* Color de fondo rojo para el primer bloque */
+        }
+
+        #bloque2 {
+            top: 150px; /* Posición superior del segundo bloque */
+            left: 150px; /* Posición izquierda del segundo bloque */
+            background-color: green; /* Color de fondo verde para el segundo bloque */
+        }
+
+        #bloque3 {
+            top: 200px; /* Posición superior del tercer bloque */
+            left: 200px; /* Posición izquierda del tercer bloque */
+            background-color: blue; /* Color de fondo azul para el tercer bloque */
+        }
+    </style>
+</head>
+<body>
+    <div id="bloque1" class="bloque"></div>
+    <div id="bloque2" class="bloque"></div>
+    <div id="bloque3" class="bloque"></div>
+</body>
+</html>
